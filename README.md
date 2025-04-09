@@ -34,7 +34,7 @@
 **[» Join Beta Test Group]([https://chat.whatsapp.com/](https://chat.whatsapp.com/HZQqAPRYjLlL0zuY9p3E1h))**
 
 ## GET SESSION ID ☁️
- [![Deploy on Heroku](https://img.shields.io/badge/SERVER-01-brightgreen?style=for-the-badge)](https://disturbing-marketa-suddapatta-1196257a.koyeb.app/)
+ [![Deploy on Heroku](https://img.shields.io/badge/SERVER-01-brightgreen?style=for-the-badge)](https://saviya-md-sessions-v2.koyeb.app/)
  <br>
 
  [![Deploy on Heroku](https://img.shields.io/badge/SERVER-02-brightgreen?style=for-the-badge)](https://movie-visper-session-section-production-7722.up.railway.app/)
